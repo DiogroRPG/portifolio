@@ -1,0 +1,54 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.foto-dp {
+	 max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+}
+.corprimaria {
+	background-color: #127712;
+}
+.corsecundaria {
+	background-color: #0B4A0B;
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: black !important;
+}
+.icones {
+	padding-left: 5px;
+}
+.titulosbrancos {
+	text-decoration: underline;
+	text-underline-position: below;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: white;
+	color: white;
+}
+.titulosverdes {
+	text-decoration: underline;
+	text-underline-position: below;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: #127712;
+	color: #127712;
+}
+.textobranco {
+	color: white !important;
+}
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.textofooter {
+	color: white;
+	margin:  0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
